@@ -3,6 +3,12 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+.titulo {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 32px;
+}
+
 .contenedor-tablas {
     width: fit-content;
     margin: auto;
@@ -11,7 +17,7 @@ body {
 .tarjeta-precio {
     width: 350px;
     display: inline-block;
-    margin: 200px 15px;
+    margin: 50px 15px;
 }
 
 
