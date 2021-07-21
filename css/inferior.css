@@ -1,0 +1,14 @@
+.contenedor-inferior {
+    height: 47px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.contenido-inferior {
+    height: 42px;
+    border-radius: 0px 0px 10px 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5px;
+}

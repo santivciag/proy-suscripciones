@@ -1,0 +1,60 @@
+body {
+    background-color: #eaeaea;
+    font-family: "Roboto", sans-serif;
+}
+
+.contenedor-tablas {
+    width: fit-content;
+    margin: auto;
+}
+
+.tarjeta-precio {
+    width: 350px;
+    display: inline-block;
+    margin: 200px 15px;
+}
+
+
+/* Tarjeta verde */
+
+.verde-oscuro {
+    background: #5acebd;
+}
+
+.verde-regular {
+    background: #4adbc5;
+}
+
+.verde-claro {
+    background: #03ebc8;
+}
+
+
+/* Tarjeta azul */
+
+.azul-oscuro {
+    background: #3bb9cc;
+}
+
+.azul-regular {
+    background: #00c1de;
+}
+
+.azul-claro {
+    background: #54e2f7;
+}
+
+
+/* Tarjeta roja */
+
+.rojo-oscuro {
+    background: #d1617a;
+}
+
+.rojo-regular {
+    background: #db4a6b;
+}
+
+.rojo-claro {
+    background: #fa6889;
+}

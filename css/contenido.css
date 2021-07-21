@@ -1,0 +1,29 @@
+.lista-caracteristicas {
+    background: white;
+}
+
+.triangulo {
+    display: block;
+    margin: auto;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    margin-left: 70px;
+    margin-top: 16px;
+    padding-bottom: 28px;
+}
+
+li {
+    margin-top: 28px;
+}
+
+.texto-lista {
+    position: relative;
+    bottom: 5px;
+    left: 15px;
+    color: #454242;
+    font-size: 20px;
+}
